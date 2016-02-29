@@ -13,6 +13,6 @@ To test the working
 
 -run command "python exp.py"
 
--the test images are in Folder EXE
+-the test images are in Folder car
 
 -Segmented results get stored in folder TEST
