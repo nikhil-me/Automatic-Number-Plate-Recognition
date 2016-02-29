@@ -9,7 +9,8 @@ Rquirements : Python 2.7.9
               
 To test the working  
 
--goto to the directory btp in terminal 
+-goto to the directory Automatic-Number-Plate-Recognition
+ in terminal 
 
 -run command "python exp.py"
 
